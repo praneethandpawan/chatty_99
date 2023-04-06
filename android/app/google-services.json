@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "470847058839",
+    "project_id": "groupiee-1324",
+    "storage_bucket": "groupiee-1324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470847058839:android:c18e5a5e847d58f0718ad2",
+        "android_client_info": {
+          "package_name": "com.praneeth.groupiee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470847058839-bgutikfqju8s0qndighemn563vnaf3cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP-NXAEm3x3aQVUHY1rHUkQMuOjds7rFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470847058839-1i5avi0he9gmu06ok2qi48glsm8aqrj3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "470847058839-su8r1ea87dfsrr1h1r4f636jq5rp9nt2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dbestech.chatty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
